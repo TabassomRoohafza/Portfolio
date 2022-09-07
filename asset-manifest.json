@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "//TabassomRoohafza.github.io/static/css/main.faf44c85.css",
+    "main.js": "//TabassomRoohafza.github.io/static/js/main.72b40504.js",
+    "static/media/P5.png": "//TabassomRoohafza.github.io/static/media/P5.0adf44a9cb7395f8ad36.png",
+    "static/media/P2.png": "//TabassomRoohafza.github.io/static/media/P2.2d3c7b7afabce8701c16.png",
+    "static/media/P1.png": "//TabassomRoohafza.github.io/static/media/P1.18e42e70418786b458bf.png",
+    "static/media/P4.png": "//TabassomRoohafza.github.io/static/media/P4.c111a3ab366d2fe2aedc.png",
+    "static/media/P3.png": "//TabassomRoohafza.github.io/static/media/P3.f40e0ad2a7f22064d9ec.png",
+    "static/media/P6.png": "//TabassomRoohafza.github.io/static/media/P6.4fa703aa8a0d6d726fc0.png",
+    "static/media/CoverLetter.pdf": "//TabassomRoohafza.github.io/static/media/CoverLetter.01d6631e2770e6626920.pdf",
+    "static/media/me2.jpeg": "//TabassomRoohafza.github.io/static/media/me2.d6ed8d752e18c1b66a6f.jpeg",
+    "static/media/me1.jpeg": "//TabassomRoohafza.github.io/static/media/me1.cfb929399ee208ee2a45.jpeg",
+    "static/media/CV.pdf": "//TabassomRoohafza.github.io/static/media/CV.377af68c29c2a1d431e9.pdf",
+    "static/media/tci.jpeg": "//TabassomRoohafza.github.io/static/media/tci.0e7d02bb1aa40ea89318.jpeg",
+    "index.html": "//TabassomRoohafza.github.io/index.html",
+    "main.faf44c85.css.map": "//TabassomRoohafza.github.io/static/css/main.faf44c85.css.map",
+    "main.72b40504.js.map": "//TabassomRoohafza.github.io/static/js/main.72b40504.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.faf44c85.css",
+    "static/js/main.72b40504.js"
+  ]
+}
